@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kal1nadam
-- 👀 I’m interested in game/web development
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking for collaboration on any 2D game dev project or any .NET web app project
+- 👀 I’m a backend software developer - .NET core, PHP, SQL, PSQL, C#
+- 💞️ I’m might be looking for a colaboration on some web app project ;)
 - 📫 How to reach me: https://www.instagram.com/adam_kalina/
 
 <!---
