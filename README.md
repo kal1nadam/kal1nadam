@@ -2,7 +2,7 @@
 - 🍎 Mac user
 - 💙 Currently working at https://www.tanganica.com/
 - 👀 I’m a backend software developer - .NET core, PHP, SQL, PSQL, C#, Python
-- 💞️ I’m might be looking for a colaboration on some web app project ;)
+- 💞️ I’m might be looking for a colaboration on some web app projects ;)
 - 📫 Reach me: https://www.linkedin.com/in/adam-kalina-a44665290/
 
 <!---
