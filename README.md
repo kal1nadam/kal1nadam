@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kal1nadam
+- 💻 backend software developer - .NET core, C#, PHP, Python; SQL, PSQL
 - 🍎 Mac user
-- 💙 Currently working at https://www.tanganica.com/
-- 👀 I’m a backend software developer - .NET core, C#, PHP, Python; SQL, PSQL
-- 💞️ I’m might be looking for a colaboration on some web app projects ;)
+- 👀 always looking for colaborations ;)
 - 📫 Reach me: https://www.linkedin.com/in/adam-kalina-a44665290/
 
 <!---
