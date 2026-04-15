@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adam and I'm a Backend developer, straight outta Czech</h2>
+<h2 align="left">Hi 👋! I'm Adam - founder, AI & backend engineer, based in Czechia 🇨🇿</h2>
 
 ###
 
